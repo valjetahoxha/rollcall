@@ -3,3 +3,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 ## **Name and GitHub username/profile**
 
 * Hayden Garner - [garnerh](https://github.com/garnerh25)
+* Valjete Hoxha - [valjetahoxha](https://github.com/valjetahoxha) 
